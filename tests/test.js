@@ -68,5 +68,5 @@ function sendMail(qqs, email, second) {
     htmlPath: './sbuu.html'
   };
 
-  sendMail("./第一组.txt", email, 9000);
+  sendMail("./第一组.txt", email, 60000);
 })();
